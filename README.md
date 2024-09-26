@@ -7,7 +7,10 @@ sprint-1__startkit(Закончен. Ждёт проверки!)
 - Flexbox
 - Grid Layout
 - Адаптивная вёрстка
-> БЭМ
+- DOM
+- БЭМ
+---
+Webpack
 #### Фреймворк **React** + **Redux**, **React Router**.
 
 > Git/GitHub
