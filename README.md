@@ -14,7 +14,9 @@ sprint-1__startkit(Закончен. Ждёт проверки!)
 #### Фреймворк **React** + **Redux**, **React Router**.
 
 > Git/GitHub
+> ---
 > Webpack
+> ---
 > API
 > ООП
 > Jest
