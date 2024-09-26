@@ -6,6 +6,10 @@ sprint-1__startkit(Закончен. Ждёт проверки!)
 ### HTML/CSS/JS/TS.
 - Flexbox
 - Grid Layout
+- Адаптивная вёрстка
+> БЭМ
 #### Фреймворк **React** + **Redux**, **React Router**.
+
+> Git/GitHub
 
 Работу сделал: *Семионов Александр Игоревич*. *ИД22-1*. *3 курс*.
