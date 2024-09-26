@@ -10,9 +10,13 @@ sprint-1__startkit(Закончен. Ждёт проверки!)
 - DOM
 - БЭМ
 ---
-Webpack
+
 #### Фреймворк **React** + **Redux**, **React Router**.
 
 > Git/GitHub
+> Webpack
+> API
+> ООП
+> Jest
 
 Работу сделал: *Семионов Александр Игоревич*. *ИД22-1*. *3 курс*.
