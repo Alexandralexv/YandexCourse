@@ -15,6 +15,4 @@
   
   https://github.com/Alexandralexv/YandexCourse/tree/main/sprint-3-russian-travel-main
 
-  <a href="https://github.com/Alexandralexv/YandexCourse/tree/main/sprint-3-russian-travel-main">Мой проект<a>
-
 Работу сделал: *Семионов Александр Игоревич*. *ИД22-1*. *3 курс*.
