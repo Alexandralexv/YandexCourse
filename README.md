@@ -11,7 +11,7 @@
   
   https://github.com/Alexandralexv/YandexCourse/tree/sprint-2/sprint-1__startkit
   
-- sprint-3-russian-travel-main (В процессе.):
+- sprint-3-russian-travel-main (Закончен. Ждёт проверки!):
   
   https://github.com/Alexandralexv/YandexCourse/tree/main/sprint-3-russian-travel-main
 
