@@ -45,7 +45,9 @@ h5,
 h6,
 p,
 button,
-a {
+a,
+figure,
+figcaption {
   margin: 0;
   padding: 0;
 }
