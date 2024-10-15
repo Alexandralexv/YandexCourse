@@ -1,0 +1,13 @@
+.place__wrapper_link {
+  display: flex;
+  flex-direction: column;
+  justify-self: start;
+  align-self: end;
+  gap: 12px;
+}
+
+@media screen and (max-width: 320px) {
+  .place__wrapper_link {
+    align-self: start;
+  }
+}

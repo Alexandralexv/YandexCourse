@@ -1,0 +1,21 @@
+.photos__photo {
+  width: calc((100vw - 144px) / 4);
+}
+
+@media screen and (max-width: 1024px) {
+  .photos__photo {
+    width: calc((100vw - 124px) / 3);
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .photos__photo {
+    width: calc((100vw - 64px) / 2);
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .photos__photo {
+    width: calc(100vw - 32px);
+  }
+}

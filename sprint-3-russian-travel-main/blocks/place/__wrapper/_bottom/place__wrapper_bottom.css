@@ -1,0 +1,11 @@
+.place__wrapper_bottom {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+}
+
+@media screen and (max-width: 320px) {
+  .place__wrapper_bottom {
+    flex-direction: column;
+  }
+}

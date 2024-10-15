@@ -5,6 +5,18 @@ body {
   color: white;
 }
 
-a {
-  text-decoration: none;
+@media screen and (max-width: 768px) {
+  .body {
+    padding: 28px 24px 24px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .body {
+    padding: 160px 16px 24px;
+  }
+}
+
+button {
+  cursor: pointer;
 }
