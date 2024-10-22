@@ -17,4 +17,6 @@
 
 - sprint-4-mesto-project (В процессе.):
 
+  https://github.com/Alexandralexv/YandexCourse/tree/main/sprint-4-mesto-project
+
 Работу сделал: *Семионов Александр Игоревич*. *ИД22-1*. *3 курс*.
