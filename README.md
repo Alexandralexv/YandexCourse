@@ -15,7 +15,7 @@
   
   https://github.com/Alexandralexv/YandexCourse/tree/main/sprint-3-russian-travel-main
 
-- sprint-4-mesto-project (В процессе.):
+- sprint-4-mesto-project (Закончен. Ждёт проверки!):
 
   https://github.com/Alexandralexv/YandexCourse/tree/main/sprint-4-mesto-project
 
