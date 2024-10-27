@@ -36,8 +36,8 @@ AddNewPlaceButton.addEventListener("click", () => {
   popupInputTypeUrl.value = "";
   NewCardPopup.querySelector(".popup__button").disabled = true;
 
-  setEventListeners(NewCardPopup, NewCardPopup.querySelector(".popup__form")); // Валидация
-  eventModal(NewCardPopup, handleCardsFormSubmit); // открытие и отслеживание действий
+  setEventListeners(NewCardPopup, NewCardPopup.querySelector(".popup__form"));
+  eventModal(NewCardPopup, handleCardsFormSubmit);
 });
 
 function fillingProfileEditing() {

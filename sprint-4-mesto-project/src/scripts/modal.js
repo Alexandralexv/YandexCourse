@@ -1,9 +1,17 @@
 function openModal(popup) {
   popup.classList.add("popup_is-opened");
+
+  popup.addEventListener("click", (event) => {
+    if (event.target === popup) {
+      closeModal(popup);
+    }
+  });
+  document.addEventListener("keydown", closeByEsc);
 }
 
 function closeModal(popup) {
   popup.classList.remove("popup_is-opened");
+  document.removeEventListener("keydown", closeByEsc);
 }
 
 function eventModal(popup, handle) {
@@ -17,6 +25,12 @@ function eventModal(popup, handle) {
   });
 
   popupForm.addEventListener("submit", handle);
+}
+
+function closeByEsc(evt) {
+  if (evt.key === "Escape") {
+    closeModal(document.querySelector(".popup_is-opened"));
+  }
 }
 
 export { openModal, closeModal, eventModal };
