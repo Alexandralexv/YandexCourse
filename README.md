@@ -13,8 +13,10 @@
   
 - sprint-3-russian-travel-main (Закончен. Ждёт проверки!):
   
-  https://github.com/Alexandralexv/YandexCourse/tree/main/sprint-3-russian-travel-main
+  https://alexandralexv.github.io/russianTravel/
 
-- sprint-4-mesto-project (В процессе.):
+- sprint-4-mesto-project (Закончен. Ждёт проверки!):
+
+  https://alexandralexv.github.io/mesto-project/
 
 Работу сделал: *Семионов Александр Игоревич*. *ИД22-1*. *3 курс*.
