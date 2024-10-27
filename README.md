@@ -18,5 +18,9 @@
 - sprint-4-mesto-project (Закончен. Ждёт проверки!):
 
   https://alexandralexv.github.io/mesto-project/
+  
+- sprint-5 (Закончен. Ждёт проверки!):
+  
+  https://github.com/Alexandralexv/YandexCourse/tree/sprint-5/sprint-4-mesto-project
 
 Работу сделал: *Семионов Александр Игоревич*. *ИД22-1*. *3 курс*.
