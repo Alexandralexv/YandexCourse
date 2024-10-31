@@ -6,6 +6,11 @@ function openModal(popup) {
       closeModal(popup);
     }
   });
+
+  const popupClose = popup.querySelector(".popup__close");
+  popupClose.addEventListener("click", () => {
+    closeModal(popup);
+  });
   document.addEventListener("keydown", closeByEsc);
 }
 
